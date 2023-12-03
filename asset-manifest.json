@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/youtube-song-search/static/css/main.e6c13ad2.css",
+    "main.js": "/youtube-song-search/static/js/main.8052e409.js",
+    "static/js/787.2605e595.chunk.js": "/youtube-song-search/static/js/787.2605e595.chunk.js",
+    "index.html": "/youtube-song-search/index.html",
+    "main.e6c13ad2.css.map": "/youtube-song-search/static/css/main.e6c13ad2.css.map",
+    "main.8052e409.js.map": "/youtube-song-search/static/js/main.8052e409.js.map",
+    "787.2605e595.chunk.js.map": "/youtube-song-search/static/js/787.2605e595.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8052e409.js"
+  ]
+}
